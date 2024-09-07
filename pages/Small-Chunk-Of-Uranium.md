@@ -1,0 +1,1 @@
+The small chunk of uranium is used for crafting uranium. Crafted from 9 tiny piles of uranium, you must wear a hazmat suit to hold it.![Screenshot 2024-09-07 153419](https://github.com/user-attachments/assets/070cd0ef-8b4b-4baf-9be7-2536710cdd84)
